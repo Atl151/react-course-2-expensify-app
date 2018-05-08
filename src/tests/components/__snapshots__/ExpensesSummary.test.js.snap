@@ -6,7 +6,12 @@ exports[`should render correct message for multiple expenses 1`] = `
     Summary
   </h3>
   <p>
-    Viewing 3 expenses totalling $1,141.95
+    Viewing 
+    2
+     
+    expenses
+     totalling 
+    $1,500.00
   </p>
 </div>
 `;
@@ -17,7 +22,12 @@ exports[`should render correct message for one expense 1`] = `
     Summary
   </h3>
   <p>
-    Viewing 1 expense totalling $1,095.00
+    Viewing 
+    1
+     
+    expense
+     totalling 
+    $500.00
   </p>
 </div>
 `;
